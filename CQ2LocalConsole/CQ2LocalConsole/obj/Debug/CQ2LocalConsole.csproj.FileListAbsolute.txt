@@ -1,0 +1,6 @@
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\bin\Debug\CQ2LocalConsole.exe.config
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\bin\Debug\CQ2LocalConsole.exe
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\bin\Debug\CQ2LocalConsole.pdb
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\obj\Debug\CQ2LocalConsole.csprojAssemblyReference.cache
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\obj\Debug\CQ2LocalConsole.exe
+E:\Projects\CQ2LocalConsole\CQ2LocalConsole\obj\Debug\CQ2LocalConsole.pdb
